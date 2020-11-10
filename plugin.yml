@@ -1,0 +1,9 @@
+name: JoinSound
+main: MulkiAqi192\JoinSound\Main
+author: MulkiAqi192
+api: [3.12.1, 3.12.0]
+version: 1.0
+
+commands:
+  joinsound:
+    description: "JoinSound Credit!"
